@@ -2,6 +2,8 @@
 
 # ✊✌️✋ Stone Paper Scissors
 
+live link: https://asifekhlaque.github.io/Stone-Paper-Scissor-Js/
+
 Welcome to the classic game of Stone Paper Scissors! This web-based version allows you to play against the computer. Enjoy the game and see if you can beat the computer!
 
 ## 🎮 How to Play
